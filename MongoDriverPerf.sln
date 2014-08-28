@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.6.1", "MongoDriverPerf.1.6.1\MongoDriverPerf.1.6.1.csproj", "{B4B5C342-9C82-4EA4-83B1-8D3DF6868B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.Common", "MongoDriverPerf.Common\MongoDriverPerf.Common.csproj", "{C87AC33A-8721-4545-9DF9-93BE4EF0F3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.9.2", "MongoDriverPerf.1.9.2\MongoDriverPerf.1.9.2.csproj", "{B01F7E34-2B44-4977-9118-4D449AA017CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.7.0", "MongoDriverPerf.1.7.0\MongoDriverPerf.1.7.0.csproj", "{DFC24A6D-6085-4F95-AFD4-10668EB32A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.7.1", "MongoDriverPerf.1.7.1\MongoDriverPerf.1.7.1.csproj", "{C7628BDB-B8FE-4281-960A-9A09FA6179BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.8.0", "MongoDriverPerf.1.8.0\MongoDriverPerf.1.8.0.csproj", "{154A9706-FD80-4D28-9952-CAB8CBE5BA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.8.1", "MongoDriverPerf.1.8.1\MongoDriverPerf.1.8.1.csproj", "{BB6C8C13-BBB9-483E-B336-3E46C0D81AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.8.2", "MongoDriverPerf.1.8.2\MongoDriverPerf.1.8.2.csproj", "{309CB61D-DC6F-41E0-8035-E50B61170984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.8.3", "MongoDriverPerf.1.8.3\MongoDriverPerf.1.8.3.csproj", "{F556C1A3-F11A-473B-BE37-FF7C7C9542D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.9.0", "MongoDriverPerf.1.9.0\MongoDriverPerf.1.9.0.csproj", "{9633BF3F-4C73-4A33-9E02-BEE94BD3F457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDriverPerf.1.9.1", "MongoDriverPerf.1.9.1\MongoDriverPerf.1.9.1.csproj", "{8CBB58FD-1B2E-423E-96F2-741D341D9119}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A050B814-CDD1-41B1-BCA1-BC93516421B4}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01F7E34-2B44-4977-9118-4D449AA017CC}.Debug|x86.ActiveCfg = Debug|x86
+		{B01F7E34-2B44-4977-9118-4D449AA017CC}.Debug|x86.Build.0 = Debug|x86
+		{B01F7E34-2B44-4977-9118-4D449AA017CC}.Release|x86.ActiveCfg = Release|x86
+		{B01F7E34-2B44-4977-9118-4D449AA017CC}.Release|x86.Build.0 = Release|x86
+		{DFC24A6D-6085-4F95-AFD4-10668EB32A09}.Debug|x86.ActiveCfg = Debug|x86
+		{DFC24A6D-6085-4F95-AFD4-10668EB32A09}.Debug|x86.Build.0 = Debug|x86
+		{DFC24A6D-6085-4F95-AFD4-10668EB32A09}.Release|x86.ActiveCfg = Release|x86
+		{DFC24A6D-6085-4F95-AFD4-10668EB32A09}.Release|x86.Build.0 = Release|x86
+		{C7628BDB-B8FE-4281-960A-9A09FA6179BA}.Debug|x86.ActiveCfg = Debug|x86
+		{C7628BDB-B8FE-4281-960A-9A09FA6179BA}.Debug|x86.Build.0 = Debug|x86
+		{C7628BDB-B8FE-4281-960A-9A09FA6179BA}.Release|x86.ActiveCfg = Release|x86
+		{C7628BDB-B8FE-4281-960A-9A09FA6179BA}.Release|x86.Build.0 = Release|x86
+		{154A9706-FD80-4D28-9952-CAB8CBE5BA80}.Debug|x86.ActiveCfg = Debug|x86
+		{154A9706-FD80-4D28-9952-CAB8CBE5BA80}.Debug|x86.Build.0 = Debug|x86
+		{154A9706-FD80-4D28-9952-CAB8CBE5BA80}.Release|x86.ActiveCfg = Release|x86
+		{154A9706-FD80-4D28-9952-CAB8CBE5BA80}.Release|x86.Build.0 = Release|x86
+		{BB6C8C13-BBB9-483E-B336-3E46C0D81AD2}.Debug|x86.ActiveCfg = Debug|x86
+		{BB6C8C13-BBB9-483E-B336-3E46C0D81AD2}.Debug|x86.Build.0 = Debug|x86
+		{BB6C8C13-BBB9-483E-B336-3E46C0D81AD2}.Release|x86.ActiveCfg = Release|x86
+		{BB6C8C13-BBB9-483E-B336-3E46C0D81AD2}.Release|x86.Build.0 = Release|x86
+		{309CB61D-DC6F-41E0-8035-E50B61170984}.Debug|x86.ActiveCfg = Debug|x86
+		{309CB61D-DC6F-41E0-8035-E50B61170984}.Debug|x86.Build.0 = Debug|x86
+		{309CB61D-DC6F-41E0-8035-E50B61170984}.Release|x86.ActiveCfg = Release|x86
+		{309CB61D-DC6F-41E0-8035-E50B61170984}.Release|x86.Build.0 = Release|x86
+		{F556C1A3-F11A-473B-BE37-FF7C7C9542D6}.Debug|x86.ActiveCfg = Debug|x86
+		{F556C1A3-F11A-473B-BE37-FF7C7C9542D6}.Debug|x86.Build.0 = Debug|x86
+		{F556C1A3-F11A-473B-BE37-FF7C7C9542D6}.Release|x86.ActiveCfg = Release|x86
+		{F556C1A3-F11A-473B-BE37-FF7C7C9542D6}.Release|x86.Build.0 = Release|x86
+		{9633BF3F-4C73-4A33-9E02-BEE94BD3F457}.Debug|x86.ActiveCfg = Debug|x86
+		{9633BF3F-4C73-4A33-9E02-BEE94BD3F457}.Debug|x86.Build.0 = Debug|x86
+		{9633BF3F-4C73-4A33-9E02-BEE94BD3F457}.Release|x86.ActiveCfg = Release|x86
+		{9633BF3F-4C73-4A33-9E02-BEE94BD3F457}.Release|x86.Build.0 = Release|x86
+		{8CBB58FD-1B2E-423E-96F2-741D341D9119}.Debug|x86.ActiveCfg = Debug|x86
+		{8CBB58FD-1B2E-423E-96F2-741D341D9119}.Debug|x86.Build.0 = Debug|x86
+		{8CBB58FD-1B2E-423E-96F2-741D341D9119}.Release|x86.ActiveCfg = Release|x86
+		{8CBB58FD-1B2E-423E-96F2-741D341D9119}.Release|x86.Build.0 = Release|x86
+		{B4B5C342-9C82-4EA4-83B1-8D3DF6868B60}.Debug|x86.ActiveCfg = Debug|x86
+		{B4B5C342-9C82-4EA4-83B1-8D3DF6868B60}.Debug|x86.Build.0 = Debug|x86
+		{B4B5C342-9C82-4EA4-83B1-8D3DF6868B60}.Release|x86.ActiveCfg = Release|x86
+		{B4B5C342-9C82-4EA4-83B1-8D3DF6868B60}.Release|x86.Build.0 = Release|x86
+		{C87AC33A-8721-4545-9DF9-93BE4EF0F3C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C87AC33A-8721-4545-9DF9-93BE4EF0F3C8}.Debug|x86.Build.0 = Debug|Any CPU
+		{C87AC33A-8721-4545-9DF9-93BE4EF0F3C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{C87AC33A-8721-4545-9DF9-93BE4EF0F3C8}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MongoDriverPerf.1.6.1\MongoDriverPerf.1.6.1.csproj
+	EndGlobalSection
+EndGlobal
