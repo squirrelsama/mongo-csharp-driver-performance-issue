@@ -5,6 +5,8 @@ This is a demonstration of some gradual performance issues I've observed with th
 
 My team noticed this when they deployed an upgrade from 1.6.1 to 1.9.2, and had to roll back because of serious performance issues including massively increased response times and maxed out open connections. The issue was isolated to this Driver upgrade.
 
+The related Jira ticket is https://jira.mongodb.org/browse/CSHARP-1053
+
 First, let's
 --
 
