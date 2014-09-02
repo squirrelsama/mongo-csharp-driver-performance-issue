@@ -24,7 +24,7 @@ Run It!
 
 Each of the programs will take two arguments.
   - Threads, defaulted to 100.
-  - Operations, which causes N creations and N reads, defaulted to 10,000.
+  - Operations, which causes N inserts and N reads, defaulted to 10,000.
   - I used the defaults for all my results, and I recommend you do not use lower numbers than those when you run this.
   
 If you are on *nix, I have a shell script run.sh for you.
